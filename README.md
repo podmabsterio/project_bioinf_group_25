@@ -5,3 +5,33 @@
 Вводная презентация: https://docs.google.com/presentation/d/1mPLRsXfuG6iADnHZtZzcbuAtrHXM_freZVfJyhP6YSU/edit?slide=id.g35c1c5f1fc1_0_30#slide=id.g35c1c5f1fc1_0_30
 
 Финальная презентация: https://docs.google.com/presentation/d/1stfF489cWnnBtLNxCPIlS27pf3seQYYyqBwc-MAttJ0/edit?slide=id.g36959b32159_0_0#slide=id.g36959b32159_0_0
+
+Сравнительные таблицы, по по поиску вторичных структур
+
+ZDNABERT
+| Участок                      | briggsae | japonica | brenneri |  nigini | ramanei |
+| :--------------------------- | :------: | :------: | :------: | :-----: | :-----: |
+| Exons                        |  18.49 % |  0.05 %  |  17.21 % | 21.60 % | 13.56 % |
+| Introns                      |  29.41 % |  0.28 %  |  24.06 % | 22.34 % | 10.91 % |
+| Promoters (1000 up from TSS) |  26.01 % |  0.04 %  |  20.58 % | 30.87 % | 14.25 % |
+| Downstream (200 bp)          |  2.11 %  |  0.01 %  |  2.21 %  |  3.08 % |  1.70 % |
+| Intergenic                   |  29.61 % |  99.63 % |  35.93 % | 56.77 % | 36.16 % |
+
+Zhunt
+
+| Участок                      | briggsae | japonica | brenneri |  nigini | ramanei |
+| :--------------------------- | :------: | :------: | :------: | :-----: | :-----: |
+| Exons                        |  13.14 % |  0.03 %  |  12.57 % | 14.14 % | 15.12 % |
+| Introns                      |  31.00 % |  0.10 %  |  24.18 % | 22.17 % | 13.22 % |
+| Promoters (1000 up from TSS) |  26.32 % |  0.08 %  |  21.47 % | 29.63 % | 11.33 % |
+| Downstream (200 bp)          |  2.86 %  |  0.00 %  |  2.20 %  |  3.45 % |  2.49 % |
+| Intergenic                   |  32.52 % |  99.79 % |  39.58 % | 65.32 % | 31.70 % |
+
+Квадруплексы
+| Участок                      | briggsae | japonica | brenneri |  nigini | ramanei |
+| :--------------------------- | :------: | :------: | :------: | :-----: | :-----: |
+| Exons                        |  12.61 % |  0.00 %  |  5.67 %  |  5.93 % |  3.82 % |
+| Introns                      |  30.49 % |  0.11 %  |  30.06 % | 27.17 % | 16.60 % |
+| Promoters (1000 up from TSS) |  22.89 % |  0.11 %  |  18.20 % | 24.41 % | 13.31 % |
+| Downstream (200 bp)          |  5.76 %  |  0.00 %  |  2.45 %  |  5.13 % |  3.02 % |
+| Intergenic                   |  36.68 % |  99.78 % |  43.61 % | 67.67 % | 43.20 % |
